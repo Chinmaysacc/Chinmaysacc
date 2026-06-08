@@ -1,10 +1,27 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Chinmay%20Sawant&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20GenAI%20%7C%20LLMs%20%7C%20NLP&descAlignY=58&descSize=18&animation=fadeIn"/>
+<svg width="100%" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" fill="url(#headerGrad)" rx="10"/>
+  <path d="M0,140 Q225,100 450,130 Q675,160 900,120 L900,180 L0,180 Z" fill="rgba(255,255,255,0.04)"/>
+  <path d="M0,160 Q300,130 600,155 Q750,165 900,145 L900,180 L0,180 Z" fill="rgba(255,255,255,0.03)"/>
+  <text x="450" y="82" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="white" text-anchor="middle" letter-spacing="1">Chinmay Sawant</text>
+  <text x="450" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#A78BFA" text-anchor="middle" letter-spacing="2">AI &amp; ML ENGINEER  ·  GenAI  ·  LLMs  ·  NLP  ·  RAG</text>
+  <circle cx="60" cy="50" r="25" fill="rgba(167,139,250,0.1)"/>
+  <circle cx="840" cy="130" r="35" fill="rgba(167,139,250,0.07)"/>
+  <circle cx="800" cy="40" r="15" fill="rgba(167,139,250,0.08)"/>
+  <circle cx="100" cy="140" r="20" fill="rgba(96,165,250,0.07)"/>
+</svg>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Production-Grade+GenAI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+NLP;Springer+Published+Researcher;CSE+(AI%26ML)+%40+APSITE+%7C+Mumbai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Production-Grade+GenAI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+NLP;Springer+Published+Researcher;CSE+(AI%26ML)+%40+APSIT+%7C+Mumbai)](https://git.io/typing-svg)
 
 <br/>
 
@@ -112,6 +129,17 @@ chinmay = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#24243e"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" fill="url(#footerGrad)" rx="10"/>
+  <path d="M0,20 Q225,50 450,30 Q675,10 900,35 L900,0 L0,0 Z" fill="rgba(255,255,255,0.04)"/>
+  <text x="450" y="48" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="rgba(167,139,250,0.7)" text-anchor="middle" letter-spacing="3">BUILDING THE FUTURE WITH AI · MUMBAI, INDIA</text>
+</svg>
 
 </div>
